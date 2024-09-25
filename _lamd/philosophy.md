@@ -2,6 +2,7 @@
 week: 2
 title: "The Atomic Human: Philosophy"
 subtitle: "Philosophical Implications of AI and Human Intelligence"
+featured_image: slides/diagrams/books/structure-of-scientific-revolutions.png
 abstract: |
   This lecture explores the philosophical questions raised by the development of artificial intelligence and our evolving understanding of human cognition. We examine key philosophical concepts related to intelligence, consciousness, and the nature of knowledge, and how these ideas are challenged and reshaped by advances in AI. By understanding these philosophical perspectives, we gain deeper insights into what it means to be human in the age of artificial intelligence.
 ---
