@@ -2,6 +2,7 @@
 week: 1
 title: "The Atomic Human: History"
 subtitle: "Understanding Ourselves in the Age of AI"
+featured_image: slides/art/blake-elohim-creating-adam.jpg
 abstract: |
   This lecture explores the historical context of artificial intelligence through the lens of human limitations, embodiment, and our evolving understanding of intelligence and information. We trace the development of scientific thought, communication, computation, and automation, examining how these advancements have shaped our understanding of human intelligence and the challenges they present for AI. By understanding this history, we gain insights into what makes us uniquely human in the age of artificial intelligence.
 date: 2024-09-25

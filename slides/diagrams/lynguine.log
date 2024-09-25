@@ -1,0 +1,12 @@
+DEBUG:lynguine.config.interface:2024-09-26 00:00:16,813:Attempting to open file "./_lynguine.yml".
+INFO:lynguine.config.interface:2024-09-26 00:00:16,813:No configuration file found at "./_lynguine.yml". creating empty interface.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:16,813:Initialising lynguine.assess.Interface object.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:17,499:Attempting to open file "./_lynguine.yml".
+INFO:lynguine.config.interface:2024-09-26 00:00:17,499:No configuration file found at "./_lynguine.yml". creating empty interface.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:17,499:Initialising lynguine.assess.Interface object.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:18,152:Attempting to open file "./_lynguine.yml".
+INFO:lynguine.config.interface:2024-09-26 00:00:18,152:No configuration file found at "./_lynguine.yml". creating empty interface.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:18,152:Initialising lynguine.assess.Interface object.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:18,804:Attempting to open file "./_lynguine.yml".
+INFO:lynguine.config.interface:2024-09-26 00:00:18,804:No configuration file found at "./_lynguine.yml". creating empty interface.
+DEBUG:lynguine.config.interface:2024-09-26 00:00:18,804:Initialising lynguine.assess.Interface object.

@@ -1,20 +1,9 @@
 ---
+week: 2
 title: "The Atomic Human: Philosophy"
 subtitle: "Philosophical Implications of AI and Human Intelligence"
 abstract: |
   This lecture explores the philosophical questions raised by the development of artificial intelligence and our evolving understanding of human cognition. We examine key philosophical concepts related to intelligence, consciousness, and the nature of knowledge, and how these ideas are challenged and reshaped by advances in AI. By understanding these philosophical perspectives, we gain deeper insights into what it means to be human in the age of artificial intelligence.
-author:
-- family: Lawrence
-  given: Neil D.
-  gscholar: r3SJcvoAAAAJ
-  institute: University of Cambridge
-  twitter: lawrennd
-  url: http://inverseprobability.com
-venue: Lecture Series on The Atomic Human
-date: 2023-09-08
-geometry: ["a4paper", "margin=2cm"]
-papersize: a4paper
-transition: None
 ---
 
 \section{Introduction: The Philosophical Challenge of AI}
