@@ -1,0 +1,45 @@
+author:
+- family: Lawrence
+  given: Neil D.
+  gscholar: r3SJcvoAAAAJ
+  institute: University of Cambridge
+  twitter: lawrennd
+  orcid: 0000-0001-9258-1030
+  url: http://inverseprobability.com
+layout: lecture
+venue: MSt in AI and Ethics
+room:
+url: https://inverseprobability.com/
+talkcss: https://inverseprobability.com/assets/css/talks.css
+bibdir: $HOME/lawrennd/bibliography
+postsdir: ../_lectures/
+slidesdir: $HOME/lawrennd/slides/
+notesdir: ../_notes/
+notebooksdir: ../_notebooks/
+practicalsdir: ../_practicals/
+snippetsdir: $HOME/lawrennd/snippets
+writediagramsdir: .
+scriptsdir: https://inverseprobability.com/talks/scripts/
+diagramsdir: ../slides/diagrams/
+slidesheader: slides-header.html
+notation: talk-notation.tex
+posts: True
+docx: False
+notespdf: False
+slidesipynb: False
+pptx: False
+pdf: False
+assignment: False
+ipynb: True
+reveal: True
+transition: None
+potx: custom-reference.potx 
+dotx: custom-reference.dotx
+baseurl: "atomichuman/" # the subpath of your site, e.g. /blog/
+url: "https://mlatcl.github.io/" # the base hostname & protocol for your site
+ghub:
+- organization: mlatcl
+  repository: atomichuman
+  branch: gh-pages
+  directory: _lamd
+transition: None
