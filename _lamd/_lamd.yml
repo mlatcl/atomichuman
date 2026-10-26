@@ -22,7 +22,8 @@ practicalsdir: ../_practicals/
 snippetsdir: $HOME/lawrennd/snippets
 writediagramsdir: .
 scriptsdir: https://inverseprobability.com/talks/scripts/
-diagramsdir: ../slides/diagrams/
+diagramsdir: $HOME/lawrennd/slides/diagrams/ # Shared figure library (copy_web_diagrams reads from here)
+diagramswebpath: slides/diagrams/
 slidesheader: slides-header.html
 notation: talk-notation.tex
 posts: True
